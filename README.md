@@ -122,13 +122,11 @@ Tópicos assinados
 
 O vídeo explicando e demonstrando o funcionamento completo está disponível em:
 
-👉 INSIRA AQUI O LINK DO YOUTUBE
-
-📄 9. Artigo Final
+(https://youtu.be/8ZbJ9nlwodQ)
 
 A versão final do artigo em PDF está na raiz deste repositório:
 
-
+[A4 - Aplicando conhecimento.pdf](https://github.com/user-attachments/files/23759707/A4.-.Aplicando.conhecimento.pdf)
 
 👤 Autor
 
