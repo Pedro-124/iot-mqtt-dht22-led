@@ -1,0 +1,24 @@
+int led = 13;
+
+// Simulação de leitura de temperatura
+float temperatura = 28.5;
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(led, OUTPUT);
+}
+
+void loop() {
+  // Simula envio de temperatura
+  Serial.print("Temperatura: ");
+  Serial.println(temperatura);
+
+  // Lógica de alerta: acima de 30 graus acende LED
+  if (temperatura > 30) {
+    digitalWrite(led, HIGH);
+  } else {
+    digitalWrite(led, LOW);
+  }
+
+  delay(2000);
+}
